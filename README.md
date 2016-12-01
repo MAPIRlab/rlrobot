@@ -1,6 +1,8 @@
 # RL-ROBOT
 This repository provides a Reinforcement Learning framework in Python from the Machine Perception and Intelligent Robotics research group [(MAPIR)](http://mapir.isa.uma.es).
 
+[(HERE FOR UPDATED VERSION)](https://github.com/angelmtenor/RL-ROBOT)
+
 ### Requirements
 * Python 3
 * numpy
